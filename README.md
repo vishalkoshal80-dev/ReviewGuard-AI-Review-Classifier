@@ -2,6 +2,12 @@
 
 ReviewGuard is a full-stack NLP and Machine Learning project that classifies review text as likely computer-generated (CG) or original (OR), according to the labels in its training dataset.
 
+## Dashboard Preview
+
+![ReviewGuard Dashboard](screenshots/reviewguard-dashboard.png)
+
+
+
 ## Features
 
 - Natural Language Processing (NLP)
