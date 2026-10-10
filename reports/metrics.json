@@ -1,0 +1,12 @@
+{
+  "dataset_rows_used": 40410,
+  "test_rows": 8082,
+  "accuracy": 0.9315763424894828,
+  "precision_cg": 0.9487641606591143,
+  "recall_cg": 0.9123545432037633,
+  "f1_cg": 0.9302032058563675,
+  "label_mapping": {
+    "OR": "Original",
+    "CG": "Computer-generated"
+  }
+}
